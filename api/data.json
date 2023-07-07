@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "brand": "Nike Sportswear",
+      "model": "AIR FORCE 1",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/b83f2fe8dfd14010b0f07f919710380d/64888efd8c034688aa9c7677151fba44.jpg",
+      "price": 119.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Nike Sportswear",
+      "model": "DUNK RETRO SE DC",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d5bf785592bb477db8d8208c984dfc86/eee0aab7b764448ca86050955de6ee02.jpg",
+      "price": 109.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Nike Sportswear",
+      "model": "REACT VISION",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/66354f3627674760bf5863b70436f411/1a5853dcb949462d8a0e1f9bbcc11ef0.jpg",
+      "price": 134.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Nike Sportswear",
+      "model": "BLAZER MID 77",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6eb11ab19f9646309306c94421de186b/f44236a798d44c7ab48497c5576420a9.jpg",
+      "price": 79.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Red",
+          "hex": "#ff0000"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "brand": "Nike Sportswear",
+      "model": "BLAZER 77",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/9b7b06e9aa9d436bbeb6ddaf58c16a7a/161bc5ec050a42d08a010970065e092d.jpg",
+      "price": 109.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Adidas Originals",
+      "model": "FORUM CL UNISEX",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/c727bb3551d5424caae872e34cf826ed/4561338fd35a48418dcc07b4f96786b0.jpg",
+      "price": 109.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Green",
+          "hex": "#008000"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Adidas Originals",
+      "model": "SUPERSTAR",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/ba41611a10f54cc5b59e9b23d3a817eb/e50ae44335de4617900a74035c397b7f.jpg",
+      "price": 87.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        },
+        {
+          "name": "Red",
+          "hex": "#ff0000"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Adidas Originals",
+      "model": "STAN SMITH UNISEX",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/7e4183a0b2574350ba05dc0bceda3f47/707a9e24ba01406081bd29baa29ac384.jpg",
+      "price": 109.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Puma",
+      "model": "SMASH UNISEX",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/1715b42435f6323aacbb68836cb749f0/88d4063346fe418687c0a8d7f95b3f4c.jpg",
+      "price": 54.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "White",
+          "hex": "#ffffff"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Puma",
+      "model": "SMASH V2 UNISEX",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/6abbca9effcc3bd682e5c2b66ce2e916/96378f3d3be74dd691195537ca6b65c0.jpg",
+      "price": 43.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "Red",
+          "hex": "#ff0000"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "New Balance",
+      "model": "Baskets basses",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/d2ca5a855c713b6f91f54f7c3d812424/aaf45a70ba32490faa691b6b06de4863.jpg",
+      "price": 67.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "Blue",
+          "hex": "#0000ff"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "New Balance",
+      "model": "Baskets basses",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/88da8a4ed2534752947ce5dec28b4c94/528ca111729440f485e5a88217964192.jpg",
+      "price": 67.95,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "color": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    }
+  ]
+}

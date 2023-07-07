@@ -21,3 +21,13 @@ This projects contains following features:
 
 - [NativeWind](https://www.nativewind.dev/) Tailwind for react native
 - [HeroIcons](https://heroicons.com/)
+
+TODO
+
+- [Gesture handler] to swipe to remove element in list etc
+
+#### API
+
+- [Axios]
+
+#### Form

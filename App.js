@@ -7,8 +7,11 @@ import { store } from "./store";
 
 import HomeScreen from "./screens/HomeScreen";
 import DetailScreen from "./screens/DetailScreen";
+import CartScreen from "./screens/CartScreen";
+import FilterScreen from "./screens/FilterScreen";
 
 const Stack = createNativeStackNavigator();
+const screenDefaultOption = { headerShown: false };
 
 export default function App() {
   return (
@@ -18,9 +21,15 @@ export default function App() {
           <Stack.Screen
             name="Home"
             component={HomeScreen}
-            options={{ headerShown: false }}
+            options={screenDefaultOption}
           />
-          <Stack.Screen name="Detail" component={DetailScreen} />
+          <Stack.Screen
+            name="Detail"
+            component={DetailScreen}
+            options={screenDefaultOption}
+          />
+          <Stack.Screen name="Filter" component={FilterScreen} />
+          <Stack.Screen name="Cart" component={CartScreen} />
         </Stack.Navigator>
       </NavigationContainer>
     </Provider>
