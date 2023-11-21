@@ -10,7 +10,7 @@ import {
 } from "react-native";
 import {
   ShoppingBagIcon,
-  AdjustmentsIcon,
+  AdjustmentsHorizontalIcon,
 } from "react-native-heroicons/outline";
 import { useSelector, useDispatch } from "react-redux";
 
@@ -64,7 +64,11 @@ const HomeScreen = () => {
             className="relative border border-slate-400 p-1"
             onPress={goToFilter}
           >
-            <AdjustmentsIcon color="black" size="30" strokeWidth="1.5" />
+            <AdjustmentsHorizontalIcon
+              color="black"
+              size="30"
+              strokeWidth="1.5"
+            />
             {!!filterItems && (
               <View className="absolute bg-slate-900 px-1 rounded-full -bottom-1 -right-1">
                 <Text className="text-white text-xs font-bold">
