@@ -1,5 +1,10 @@
 {
-  "name": "react-native-starter",
+  "name": "movie-app-react-native",
+  "author": {
+    "name": "Majuran SIVAKUMAR",
+    "email": "majuran.sivakumar@hotmail.fr",
+    "url": "https://github.com/Maj07"
+  },
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -8,7 +13,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@react-native-community/slider": "4.4.2",
@@ -26,11 +32,15 @@
     "react-native-screens": "~3.22.0",
     "react-native-svg": "13.9.0",
     "react-native-web": "~0.19.6",
-    "react-redux": "^8.0.2"
+    "react-redux": "^8.0.2",
+    "typescript": "^5.1.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/plugin-transform-react-jsx": "^7.18.10",
+    "eslint": "^8.54.0",
+    "eslint-config-universe": "^12.0.0",
+    "prettier": "^3.1.0",
     "tailwindcss": "^3.1.7"
   },
   "private": true
